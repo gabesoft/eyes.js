@@ -57,7 +57,7 @@ These are the default styles and settings used by _eyes_.
     },
     
     pretty: true,             // Indent object literals
-    sortObjectKeys: false     // Sort object keys
+    sortObjectKeys: false,    // Sort object keys
     hideFunctions: false,     // Don't output functions at all
     stream: process.stdout,   // Stream to write to, or null
     maxLength: 2048           // Truncate output if longer
